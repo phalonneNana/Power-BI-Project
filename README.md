@@ -4,7 +4,4 @@ This project studies the data analysis of assets and structures under the respon
 # Contribution
 This work will allow the city council to know exactly where the structures and objects in its charge are located and in what condition they are in order to assess whether they are harmful to the inhabitants or not.
 
-# How to see result
-Install powerBI in your laptop, download the .pib file and easily open it. Thanks
-
 # Good Reading😁
